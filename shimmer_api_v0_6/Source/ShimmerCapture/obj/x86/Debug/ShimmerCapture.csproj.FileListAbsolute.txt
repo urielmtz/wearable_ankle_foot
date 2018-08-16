@@ -1,0 +1,57 @@
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.5.exe.config
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.5.exe.manifest
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.5.application
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.5.exe
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.5.pdb
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\MathNet.Numerics.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\OpenTK.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ShimmerClosedLibraryRev0_4.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\ZedGraph.dll
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture.csprojResolveAssemblyReference.cache
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.FormAbout.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.FormUpdateCheck.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.FormUpdateInstall.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Orientation3D.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Control.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Configuration.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Properties.Resources.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.UserControlExgConfig.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.UserControlSdConfig.resources
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture.csproj.GenerateResource.Cache
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.5.exe.manifest
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.5.application
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.5.exe
+C:\Users\Lim\Documents\Shimmer\C#\Shimmer_Csharp_API_v0.2.1\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.5.pdb
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.6.exe.config
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.6.exe.manifest
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.6.application
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.6.exe
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ShimmerCapture v0.6.pdb
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\MathNet.Numerics.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\OpenTK.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ShimmerClosedLibraryRev0_4.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\ZedGraph.dll
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.FormAbout.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.FormUpdateCheck.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.FormUpdateInstall.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Orientation3D.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Control.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Configuration.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.Properties.Resources.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.UserControlExgConfig.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerAPI.UserControlSdConfig.resources
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture.csproj.GenerateResource.Cache
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.6.exe.manifest
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.6.application
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.6.exe
+C:\Users\Lim\Documents\Shimmer\C#\Released\Shimmer_Csharp_API_v0.6\Source\ShimmerCapture\obj\x86\Debug\ShimmerCapture v0.6.pdb
