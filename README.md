@@ -1,15 +1,21 @@
 ## Info
 
-University of Leeds
-School of Mechanical Engineering
-Institute of Design, Robotics and Optimisation (iDRO)
+University of Leeds.
+School of Mechanical Engineering.
+Institute of Design, Robotics and Optimisation (iDRO).
+
+
+University of Bath.
+Department of Electronic and Electrical Engineering.
+Faculty of Engineering and Design.
 
 
 
-author: Uriel Martinez-Hernandez
-program name: run_classifier.m
-date: February 2018
-version: 1.0
+
+author: Uriel Martinez-Hernandez.
+program name: run_classifier.m.
+date: February 2018.
+version: 1.0.
 
 
 
