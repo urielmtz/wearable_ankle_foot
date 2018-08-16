@@ -10,14 +10,14 @@ Department of Electronic and Electrical Engineering.
 Faculty of Engineering and Design.
 
 
-
+--
 
 author: Uriel Martinez-Hernandez.
 program name: run_classifier.m.
 date: February 2018.
 version: 1.0.
 
-
+--
 
 This program is part of the project 'Wearable soft robotics for
 independent living' funded by EPSRC.
